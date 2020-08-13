@@ -1,0 +1,99 @@
+[{
+    "id" : 1,
+    "name": "Preeti Gupta",
+    "phone-no": "456-789-4407",
+    "image": "",
+    "preferred-language": "Visual Basic",
+    "city": "California"
+},
+{
+    "id" : 2,
+    "name": "Katheryn Church",
+    "phone-no": "126-789-4356",
+    "image": "",
+    "preferred-language": "c++",
+    "city": "Detroit"
+},
+
+{
+    "id" : 3,
+    "name": "Kristen Johns",
+    "phone-no": "234-879-7654",
+    "image": "",
+    "preferred-language": "Ruby",
+    "city": "Boston"
+},
+{
+    "id" : 4,
+    "name": "Eddy Yang",
+    "phone-no": "345-143-3456",
+    "image": "",
+    "preferred-language": "Javascript",
+    "city": "Seattle"
+},
+{
+    "id" : 5,
+    "name": "Donna Nguyen",
+    "phone-no": "564-654-1234",
+    "image": "",
+    "preferred-language": "C",
+    "city": "Houston"
+},
+{
+    "id" : 6,
+    "name": "Ernest Urzua",
+    "phone-no": "543-232-4356",
+    "image": "",
+    "preferred-language": "Java",
+    "city": "Philadelhia"
+},
+{
+    "id" : 7,
+    "name": "Christopher Lee",
+    "phone-no": "432-765-9945",
+    "image": "",
+    "preferred-language": "Ruby",
+    "city": "Los Angeles"
+},
+{
+    "id" : 8,
+    "name": "Gabriel Suchich",
+    "phone-no": "324-654-4407",
+    "image": "",
+    "preferred-language": "Python",
+    "city": "San Francisco"
+},
+{
+    "id" : 9,
+    "name": "Aidan Sweeney",
+    "phone-no": "220-459-6543",
+    "image": "",
+    "preferred-language": "C",
+    "city": "Washington"
+},
+{
+    "id" : 10,
+    "name": "Joel Mathen",
+    "phone-no": "323-468-9901",
+    "image": "",
+    "preferred-language": "Python",
+    "city": "Chicago"
+},
+{
+    "id" : 11,
+    "name": "Seyoung Yoon",
+    "phone-no": "456-232-5598",
+    "image": "",
+    "preferred-language": "Java",
+    "city": "New York"
+},
+{
+    "id" : 12,
+    "name": "Samuel Barrow",
+    "phone-no": "345-123-6708",
+    "image": "",
+    "preferred-language": "C++",
+    "city": "California"
+}
+
+]
