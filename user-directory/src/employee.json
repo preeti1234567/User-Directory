@@ -1,122 +1,434 @@
-[{
-    "id" : 1,
+[
+  {
+    "id": 1,
     "firstname": "Preeti",
     "lastname": "Gupta",
     "email": "preeti@mail.com",
-    "phone-no": "456-789-4407",
+    "phone_no": "456-789-4407",
     "image": "",
-    "preferred-language": "Visual Basic"
-    
-},
-{
-    "id" : 2,
+    "preferred_language": "Visual Basic"
+  },
+  {
+    "id": 2,
     "firstname": "Katheryn",
     "lastname": "Church",
     "email": "Katheryn@mail.com",
-    "phone-no": "126-789-4356",
+    "phone_no": "126-789-4356",
     "image": "",
-    "preferred-language": "c++"
-    
-},
+    "preferred_language": "c++"
+  },
 
-{
-    "id" : 3,
+  {
+    "id": 3,
     "firstname": "Kristen",
-    "lastname":" Johns",
+    "lastname": " Johns",
     "email": "Johns@gmail.com",
-    "phone-no": "234-879-7654",
+    "phone_no": "234-879-7654",
     "image": "",
-    "preferred-language": "Ruby"
-    
-},
-{
-    "id" : 4,
+    "preferred_language": "Ruby"
+  },
+  {
+    "id": 4,
     "firstname": "Eddy",
     "lastname": "Yang",
     "email": "Eddy@mail.com",
-    "phone-no": "345-143-3456",
+    "phone_no": "345-143-3456",
     "image": "",
-    "preferred-language": "Javascript"
-    
-},
-{
-    "id" : 5,
+    "preferred_language": "Javascript"
+  },
+  {
+    "id": 5,
     "firstname": "Donna",
     "lastname": "Nguyen",
     "email": "donna@mail.com",
-    "phone-no": "564-654-1234",
+    "phone_no": "564-654-1234",
     "image": "",
-    "preferred-language": "C"
-    
-},
-{
-    "id" : 6,
+    "preferred_language": "C"
+  },
+  {
+    "id": 6,
     "firstname": "Ernest",
     "lastname": "Urzua",
     "email": "ernest@mail.com",
-    "phone-no": "543-232-4356",
+    "phone_no": "543-232-4356",
     "image": "",
-    "preferred-language": "Java"
-    
-},
-{
-    "id" : 7,
+    "preferred_language": "Java"
+  },
+  {
+    "id": 7,
     "firstname": "Christopher",
     "lastname": "Lee",
     "email": "lee@mail.com",
-    "phone-no": "432-765-9945",
+    "phone_no": "432-765-9945",
     "image": "",
-    "preferred-language": "Ruby"
-    
-},
-{
-    "id" : 8,
+    "preferred_language": "Ruby"
+  },
+  {
+    "id": 8,
     "firstname": "Gabriel",
     "lastname": "Suchich",
     "email": "gabe@mail.com",
-    "phone-no": "324-654-4407",
+    "phone_no": "324-654-4407",
     "image": "",
-    "preferred-language": "Python"
-    
-},
-{
-    "id" : 9,
+    "preferred_language": "Python"
+  },
+  {
+    "id": 9,
     "firstname": "Aidan",
     "lastname": "Sweeney",
     "email": "aidan@mail.com",
-    "phone-no": "220-459-6543",
+    "phone_no": "220-459-6543",
     "image": "",
-    "preferred-language": "C"
-    
-},
-{
-    "id" : 10,
+    "preferred_language": "C"
+  },
+  {
+    "id": 10,
     "firstname": "Joel",
     "lastname": "Mathen",
     "email": "joel@mail.com",
-    "phone-no": "323-468-9901",
+    "phone_no": "323-468-9901",
     "image": "",
-    "preferred-language": "Python"
-    
-},
-{
-    "id" : 11,
+    "preferred_language": "Python"
+  },
+  {
+    "id": 11,
     "firstname": "Seyoung",
     "lastname": "Yoon",
-    "email":"seyoung@mail.com",
-    "phone-no": "456-232-5598",
+    "email": "seyoung@mail.com",
+    "phone_no": "456-232-5598",
     "image": "",
-    "preferred-language": "Java"
-    
-},
-{
-    "id" : 12,
+    "preferred_language": "Java"
+  },
+  {
+    "id": 12,
     "firstname": "Samuel",
     "lastname": "Barrow",
-    "phone-no": "345-123-6708",
+    "phone_no": "345-123-6708",
     "image": "",
-    "preferred-language": "C++"
- 
-}
+    "preferred_language": "C++"
+  },
+  {
+    "id": 13,
+    "firstname": "Preeti",
+    "lastname": "Gupta",
+    "email": "preeti@mail.com",
+    "phone_no": "456-789-4407",
+    "image": "",
+    "preferred_language": "Visual Basic"
+  },
+  {
+    "id": 14,
+    "firstname": "Katheryn",
+    "lastname": "Church",
+    "email": "Katheryn@mail.com",
+    "phone_no": "126-789-4356",
+    "image": "",
+    "preferred_language": "c++"
+  },
 
+  {
+    "id": 15,
+    "firstname": "Kristen",
+    "lastname": " Johns",
+    "email": "Johns@gmail.com",
+    "phone_no": "234-879-7654",
+    "image": "",
+    "preferred_language": "Ruby"
+  },
+  {
+    "id": 16,
+    "firstname": "Eddy",
+    "lastname": "Yang",
+    "email": "Eddy@mail.com",
+    "phone_no": "345-143-3456",
+    "image": "",
+    "preferred_language": "Javascript"
+  },
+  {
+    "id": 17,
+    "firstname": "Donna",
+    "lastname": "Nguyen",
+    "email": "donna@mail.com",
+    "phone_no": "564-654-1234",
+    "image": "",
+    "preferred_language": "C"
+  },
+  {
+    "id": 18,
+    "firstname": "Ernest",
+    "lastname": "Urzua",
+    "email": "ernest@mail.com",
+    "phone_no": "543-232-4356",
+    "image": "",
+    "preferred_language": "Java"
+  },
+  {
+    "id": 19,
+    "firstname": "Christopher",
+    "lastname": "Lee",
+    "email": "lee@mail.com",
+    "phone_no": "432-765-9945",
+    "image": "",
+    "preferred_language": "Ruby"
+  },
+  {
+    "id": 20,
+    "firstname": "Gabriel",
+    "lastname": "Suchich",
+    "email": "gabe@mail.com",
+    "phone_no": "324-654-4407",
+    "image": "",
+    "preferred_language": "Python"
+  },
+  {
+    "id": 21,
+    "firstname": "Aidan",
+    "lastname": "Sweeney",
+    "email": "aidan@mail.com",
+    "phone_no": "220-459-6543",
+    "image": "",
+    "preferred_language": "C"
+  },
+  {
+    "id": 22,
+    "firstname": "Joel",
+    "lastname": "Mathen",
+    "email": "joel@mail.com",
+    "phone_no": "323-468-9901",
+    "image": "",
+    "preferred_language": "Python"
+  },
+  {
+    "id": 23,
+    "firstname": "Seyoung",
+    "lastname": "Yoon",
+    "email": "seyoung@mail.com",
+    "phone_no": "456-232-5598",
+    "image": "",
+    "preferred_language": "Java"
+  },
+  {
+    "id": 24,
+    "firstname": "Samuel",
+    "lastname": "Barrow",
+    "phone_no": "345-123-6708",
+    "image": "",
+    "preferred_language": "C++"
+  },
+  {
+    "id": 25,
+    "firstname": "Preeti",
+    "lastname": "Gupta",
+    "email": "preeti@mail.com",
+    "phone_no": "456-789-4407",
+    "image": "",
+    "preferred_language": "Visual Basic"
+  },
+  {
+    "id": 26,
+    "firstname": "Katheryn",
+    "lastname": "Church",
+    "email": "Katheryn@mail.com",
+    "phone_no": "126-789-4356",
+    "image": "",
+    "preferred_language": "c++"
+  },
+
+  {
+    "id": 27,
+    "firstname": "Kristen",
+    "lastname": " Johns",
+    "email": "Johns@gmail.com",
+    "phone_no": "234-879-7654",
+    "image": "",
+    "preferred_language": "Ruby"
+  },
+  {
+    "id": 28,
+    "firstname": "Eddy",
+    "lastname": "Yang",
+    "email": "Eddy@mail.com",
+    "phone_no": "345-143-3456",
+    "image": "",
+    "preferred_language": "Javascript"
+  },
+  {
+    "id": 29,
+    "firstname": "Donna",
+    "lastname": "Nagpal",
+    "email": "donna@mail.com",
+    "phone_no": "564-654-1234",
+    "image": "",
+    "preferred_language": "C"
+  },
+  {
+    "id": 30,
+    "firstname": "Ernest",
+    "lastname": "Erose",
+    "email": "ernest@mail.com",
+    "phone_no": "543-232-4356",
+    "image": "",
+    "preferred_language": "Java"
+  },
+  {
+    "id": 31,
+    "firstname": "Christopher",
+    "lastname": "Lee",
+    "email": "lee@mail.com",
+    "phone_no": "432-765-9945",
+    "image": "",
+    "preferred_language": "Ruby"
+  },
+  {
+    "id": 32,
+    "firstname": "Gabe",
+    "lastname": "Suchich",
+    "email": "gabe@mail.com",
+    "phone_no": "324-654-4407",
+    "image": "",
+    "preferred_language": "Python"
+  },
+  {
+    "id": 33,
+    "firstname": "Arnav",
+    "lastname": "Seth",
+    "email": "aidan@mail.com",
+    "phone_no": "220-459-6543",
+    "image": "",
+    "preferred_language": "C"
+  },
+  {
+    "id": 34,
+    "firstname": "Joody",
+    "lastname": "Mathen",
+    "email": "joel@mail.com",
+    "phone_no": "323-468-9901",
+    "image": "",
+    "preferred_language": "Python"
+  },
+  {
+    "id": 35,
+    "firstname": "Imphal",
+    "lastname": "Yoon",
+    "email": "seyoung@mail.com",
+    "phone_no": "456-232-5598",
+    "image": "",
+    "preferred_language": "Java"
+  },
+  {
+    "id": 36,
+    "firstname": "Sam",
+    "lastname": "Barrow",
+    "phone_no": "345-123-6708",
+    "image": "",
+    "preferred_language": "C++"
+  },
+  {
+    "id": 37,
+    "firstname": "Jyoti",
+    "lastname": "Church",
+    "email": "preetiChurch@mail.com",
+    "phone_no": "456-789-4407",
+    "image": "",
+    "preferred_language": "Visual Basic"
+  },
+  {
+    "id": 38,
+    "firstname": "Carolina",
+    "lastname": "Church",
+    "email": "Katheryn@mail.com",
+    "phone_no": "126-789-4356",
+    "image": "",
+    "preferred_language": "c++"
+  },
+
+  {
+    "id": 39,
+    "firstname": "Kristen",
+    "lastname": " Karl",
+    "email": "Johns@gmail.com",
+    "phone_no": "234-879-7654",
+    "image": "",
+    "preferred_language": "Ruby"
+  },
+  {
+    "id": 40,
+    "firstname": "Katheryn",
+    "lastname": "Russel",
+    "email": "Eddy@mail.com",
+    "phone_no": "345-143-3456",
+    "image": "",
+    "preferred_language": "Javascript"
+  },
+  {
+    "id": 41,
+    "firstname": "Donna",
+    "lastname": "Yang",
+    "email": "donna@mail.com",
+    "phone_no": "564-654-1234",
+    "image": "",
+    "preferred_language": "C"
+  },
+  {
+    "id": 42,
+    "firstname": "Ernest",
+    "lastname": "Christopher",
+    "email": "ernest@mail.com",
+    "phone_no": "543-232-4356",
+    "image": "",
+    "preferred_language": "Java"
+  },
+  {
+    "id": 43,
+    "firstname": "Jason",
+    "lastname": "Lee",
+    "email": "lee@mail.com",
+    "phone_no": "432-765-9945",
+    "image": "",
+    "preferred_language": "Ruby"
+  },
+  {
+    "id": 44,
+    "firstname": "Gabriel",
+    "lastname": "Lee",
+    "email": "gabe@mail.com",
+    "phone_no": "324-654-4407",
+    "image": "",
+    "preferred_language": "Python"
+  },
+  {
+    "id": 45,
+    "firstname": "Aidan",
+    "lastname": "Sulchich",
+    "email": "aidan@mail.com",
+    "phone_no": "220-459-6543",
+    "image": "",
+    "preferred_language": "C"
+  },
+  {
+    "id": 46,
+    "firstname": "Joel",
+    "lastname": "Sweeney",
+    "email": "joel@mail.com",
+    "phone_no": "323-468-9901",
+    "image": "",
+    "preferred_language": "Python"
+  },
+  {
+    "id": 47,
+    "firstname": "Seyoung",
+    "lastname": "Mathen",
+    "email": "seyoung@mail.com",
+    "phone_no": "456-232-5598",
+    "image": "",
+    "preferred_language": "Java"
+  },
+  {
+    "id": 48,
+    "firstname": "Samuel",
+    "lastname": "Bart",
+    "phone_no": "345-123-6708",
+    "image": "",
+    "preferred_language": "C++"
+  }
 ]
