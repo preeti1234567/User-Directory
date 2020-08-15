@@ -103,6 +103,7 @@
     "id": 12,
     "firstname": "Samuel",
     "lastname": "Barrow",
+    "email": "sam@mail.com",
     "phone_no": "345-123-6708",
     "image": "",
     "preferred_language": "C++"
@@ -211,6 +212,7 @@
     "id": 24,
     "firstname": "Samuel",
     "lastname": "Barrow",
+    "email": "bse@mail.com",
     "phone_no": "345-123-6708",
     "image": "",
     "preferred_language": "C++"
@@ -319,6 +321,7 @@
     "id": 36,
     "firstname": "Sam",
     "lastname": "Barrow",
+    "email": "all@mail.com",
     "phone_no": "345-123-6708",
     "image": "",
     "preferred_language": "C++"
@@ -427,6 +430,7 @@
     "id": 48,
     "firstname": "Samuel",
     "lastname": "Bart",
+    "email": "arr@mail.com",
     "phone_no": "345-123-6708",
     "image": "",
     "preferred_language": "C++"

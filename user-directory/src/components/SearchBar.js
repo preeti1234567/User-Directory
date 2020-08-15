@@ -13,11 +13,12 @@ import  Dropdown  from './Dropdown';
           aria-describedby="inputGroup-sizing-default"
           onChange={props.changeHandler}
         ></input>
-        <button onClick={props.search}>Search</button>
+        <button className ="btn btn-secondary" onClick={props.search}>Search</button>
         <div className = "container">
-          <Dropdown categories={props.categories} changeHandlerCategory={props.changeHandlerCategoryOrder}/>
+        <button className ="btn btn-secondary" onClick={props.order}>Order By</button>
+        <Dropdown categories={props.categories} changeHandlerCategory={props.changeHandlerCategoryOrder}/>
         <Dropdown categories={props.orderBy} changeHandlerCategory={props.changeHandlerOrderBy}/>
-        <button onClick={props.order}>Order By</button>
+        
         </div>
         
         
