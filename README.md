@@ -1,6 +1,6 @@
 # User-Directory
 
-The purpose of this project is to creat a employee directory with React. In this projcet we need to manage component state, and respond to user events.
+The purpose of this project is to creat a employee directory with React. In this projcet we need to manage component state, and respond to user events. An employee or manager would benefit greatly from being able to view non-sensitive data about other employees.
 
 ## Getting Started
 
@@ -15,12 +15,13 @@ The purpose of this project is to creat a employee directory with React. In this
 ## Details of the Project
 
 
-In this application, user can view their entire employee directory at once so that he can have quick access to their information. An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
+In this application, user can view their entire employee directory at once and he can have quick access to their information.  We can filter the employee on the basis of name entered in the input field. And also sort it in ascending as well as descending order on the basis of firstName, lastName, email, preffered language. 
 
 
-My User-Directory Website Link ->  (https://preeti1234567.github.io/click-game/)
 
-![Snapshot](click-game/public/click.png)
+## My User-Directory Website Link ->  (https://preeti1234567.github.io/User-directory/)
+
+## ![Snapshot of my application](./user-directory/public/employee.png)
 
 
 
