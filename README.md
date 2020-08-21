@@ -19,7 +19,7 @@ In this application, user can view their entire employee directory at once and h
 
 
 
-## My User-Directory Website Link ->  (https://preeti1234567.github.io/User-directory/)
+## My User-Directory Website Link ->  (https://preeti1234567.github.io/user-directory/)
 
 ## ![Snapshot of my application](./user-directory/public/employee.png)
 
